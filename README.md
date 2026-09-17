@@ -11,6 +11,7 @@ Mechanical Engineer | Technical trainer| CAD Specialist | Cybersecurity Enthusia
 - Research: Coffee/tea production tech, mechanical design (e.g., coffee pulper machine)  
 
 🏆 Career Highlights
+
 ⚡ Reduced fleet downtime by 30% at Kenya Power & Lighting Company (KPLC) through systematic diagnosis and repair of electrical faults and brake failures.
 
 💰 Averted KES 650,000+ in breakdown costs at the Ministry of Roads & Transport via preventive maintenance on 10+ plant machines monthly.
